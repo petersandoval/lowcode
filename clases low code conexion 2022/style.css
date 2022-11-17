@@ -1,0 +1,75 @@
+
+.flex-container{
+  display: flex;
+  background-color: blue;
+  padding: 50px;
+  border: 2px;
+}
+
+.flex-container div{
+  background-color: red;
+  width: 100px;
+  margin: 10%;
+  
+}
+
+
+
+header {
+  background: rgba(0,01,0,0.7);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background: #eca023;
+}
+
+
+calculadora2{
+  right: 75%;
+  left: 50%;
+
+}
+
+
+
+.flex-container{
+  display: flex;
+  background-color: blue;
+  padding: 50px;
+  border: 2px;
+}
+
+.flex-container div{
+  background-color: red;
+  width: 100px;
+  margin: 10%;
+
+}
+
+
+
+
+
